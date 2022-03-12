@@ -93,7 +93,7 @@ print '<h2>The Midnight News</h2>
         the LA-based two-man band consisting of Tim McEwan and Tyler Lyle are gearing up to have an enormous career - 
         if they manage to steady their trajectory.<br><br>
         The Midnight's first studio album, Endless Summer, was an instant classic, with a number of timeless hits featured on it, as well as some unforgettable hooks.
-        <img src="images/bar.jpg" class="bar">
+        <img src="images/bar.jpg" class="bar" width="50%">
         2018's follow-up, Kids, was similarly spectacular, but lacked the same punch that Endless Summer drilled into listeners' ears as it focused more on complex
         songwriting and synth foundations than the saxophone choruses they were perhaps best known for. 2020's inclusion in their discography is Monsters - 
         a gorgeous concept album that sets out to tell a story as much as it wants to empathise with listeners.<br><br>
