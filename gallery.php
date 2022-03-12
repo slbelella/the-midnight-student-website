@@ -26,29 +26,21 @@ require 'templates/header.html';
       <div class="carousel-item active">
         <img class="d-block w-100" src="images/stage.jpg" alt="stage performance">
         <div class="carousel-caption d-none d-md-block">
-          <h3>Baltimore's Sound Stage</h3>
-          <p>The Midnight, joined by Lito Hernandez on the saxophone</p>
         </div>
       </div>
       <div class="carousel-item">
         <img class="d-block w-100" src="images/tim.jpg" alt="Tim McEwan">
         <div class="carousel-caption d-none d-md-block">
-          <h3>Baltimore's Sound Stage</h3>
-          <p>Tim McEwan of The Midnight</p>
         </div>
       </div>
       <div class="carousel-item">
         <img class="d-block w-100" src="images/tyler.jpg" alt="Tyler Lyle"> 
         <div class="carousel-caption d-none d-md-block">
-          <h3>Baltimore's Sound Stage</h3>
-          <p>Tyler Lyle of The Midnight</p>
         </div>
       </div>
       <div class="carousel-item">
         <img class="d-block w-100" src="images/tour.jpg" alt="St. Louis">
         <div class="carousel-caption d-none d-md-block">
-          <h3>DNA Lounge</h3>
-          <p>San Francisco, California.</p>
         </div>
       </div>
     </div>
